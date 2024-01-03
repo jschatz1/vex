@@ -1,0 +1,19 @@
+{
+  "name": "vex",
+  "version": "0.0.1",
+  "description": "A modern and concise backend framework in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschatz1/vex.git"
+  },
+  "author": "Jacob Schatz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschatz1/vex/issues"
+  },
+  "homepage": "https://github.com/jschatz1/vex#readme"
+}
